@@ -2,7 +2,6 @@
 
 **An open-source platform for generating, managing, and tracking educational content, quizzes, and AI-powered learning simulations.**
 
-![EduPrompt Logo](https://via.placeholder.com/150)
 
 ---
 
